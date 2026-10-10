@@ -1,0 +1,25 @@
+
+.btnMenu {
+    padding: 10px 7%;
+    border: none;
+    text-decoration: none;
+    border-radius: 12px;
+    background: #d9d9d9;
+    color: black;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.24);
+}
+
+.btnMenu:hover {
+    background-color: #d4d4d4;
+}
+
+.ativo {
+    background: #f3702b;
+    color: white;
+}
+
+.ativo:hover {
+    background: #e55d23;
+}
